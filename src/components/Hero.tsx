@@ -113,7 +113,7 @@ export default function Hero() {
             <div className="card-3d">
               <div className="absolute inset-0 bg-gradient-to-br from-cyan-500/20 to-blue-500/20 rounded-2xl blur-3xl"></div>
               <img
-                src="/portfolio/myportfolio/public/saran.jpg"
+                src="/portfolio/portfolio_project/public/saran.jpg"
                 alt="Hari Saran"
                 className="relative rounded-2xl shadow-2xl w-full max-w-md mx-auto border-4 border-cyan-500/30
                          group-hover:border-cyan-400 transition-all duration-300"
